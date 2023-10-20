@@ -55,7 +55,7 @@ Herramientas utilizadas en el desarrollo del proyecto:
 
 ### Wiki 📖
 
-Para obtener más información sobre el uso y la configuración de la aplicación, visita nuestra Wiki en [link to wiki](https://github.com/tmaygon609/test.wiki.git).
+Para obtener más información sobre el uso y la configuración de la aplicación, visita nuestra Wiki en [link to wiki](https://github.com/tmaygon609/test.wiki.git)
 
 ### Versionado 📌
 
