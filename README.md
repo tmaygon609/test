@@ -1,6 +1,6 @@
-# Aplicación de salón belleza
+# Aplicación de salón belleza :haircut: :nail_care: :massage:
 
-## Descripción
+## Descripción :pencil2:
 
 Este proyecto consiste en desarrollar una aplicación de gestión para un salón de belleza, que permitirá a los clientes reservar citas y explorar servicios.
 
@@ -76,3 +76,5 @@ También agradecemos a todos los colaboradores que participaron en este proyecto
 Este proyecto está bajo la Licencia MIT - mira el archivo LICENSE.md para detalles.
 
 > La Licencia MIT es una licencia muy permisiva que permite a los usuarios finales hacer casi cualquier cosa con el software, siempre y cuando se incluya el aviso de copyright y la licencia en todas las copias o partes sustanciales del software.
+
+
